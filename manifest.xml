@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>Beat_Extract</Name>
+  <Id>com.CSC499.beat_extract</Id>
+  <Version>1</Version>
+  <ApiVersion>5</ApiVersion>
+  <Author>CSC499</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>Automation</Category>
+  <Description>A tool to do various operations using beats from an audio file.</Description>
+  <Homepage>http://tools.renoise.com</Homepage>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
